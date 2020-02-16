@@ -1,0 +1,5 @@
+hi
+this is a sample input file2
+Hi
+this is a sample input file2
+hI

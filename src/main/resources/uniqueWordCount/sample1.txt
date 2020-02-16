@@ -1,0 +1,7 @@
+this -> 2
+is -> 2
+a -> 2
+file1 -> 2
+input -> 2
+sample -> 2
+hi -> 2
